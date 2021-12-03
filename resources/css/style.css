@@ -1,7 +1,25 @@
-* {
-  align-content: center;
+
+h1, h2 {
+  color: white;
+  font-family: verdana
 }
 
-h {
-  color: white;
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+p {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
 }
